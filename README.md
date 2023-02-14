@@ -1,3 +1,5 @@
+# Esse projeto foi criado durante curso de React da Alura, é o Organo que permite que cadastremos a organização de nossa empresa. As principais habilidades que desenvolvi foram o controle de estado, manipulação do input de formulário, eventos, diferença de map vs forEach. Usei bastante o map, e o useState nessa aplicação, o que ajudou a fixar melhor todo o conceito.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
