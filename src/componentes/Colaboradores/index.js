@@ -12,6 +12,5 @@ const Colaborador = ({nome, cargo, imagem, corDeFundo})=> {
             </div>
         </div>
     )
-
 }
 export default Colaborador;
